@@ -4,7 +4,10 @@
 - 💞️ I’m looking to collaborate on any project :)
 - 📫 How to reach me <a href="https://twitter.com/messages/compose?recipient_id=1058430189066162176"
   class="twitter-dm-button" data-screen-name="@hcbylmz_dev">
-Message @hcbylmz_dev</a> <img src="https://www.flaticon.com/svg/vstatic/svg/124/124021.svg?token=exp=1618087053~hmac=1a0b570a32d112a728e88c23ff04be46" width="25" height="25">
+Message @hcbylmz_dev</a> <img src="https://image.flaticon.com/icons/png/512/124/124021.png" width="25" height="25">
+
+- 📫 E-mail : [yilmazhicabi@gmail.com](mailto:yilmazhicabi@gmail.com?subject=[GitHub]%20Hakkında)
+
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=hcbylmz)](https://github.com/ryo-ma/github-profile-trophy)
