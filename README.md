@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hcbylmz
 - 👀 I’m interested in learning new stuff...
-- 🌱 I’m currently learning ReactJs
+- 🌱 I’m currently learning React Native/ReactJs
 - 💞️ I’m looking to collaborate on any project :)
 - 📫 How to reach me <a href="https://twitter.com/messages/compose?recipient_id=1058430189066162176"
   class="twitter-dm-button" data-screen-name="@hcbylmz_dev">
