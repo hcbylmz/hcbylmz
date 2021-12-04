@@ -13,6 +13,8 @@ Message @hcbylmz_dev</a> <img src="https://image.flaticon.com/icons/png/512/124/
 [![trophy](https://github-profile-trophy.vercel.app/?username=hcbylmz)](https://github.com/ryo-ma/github-profile-trophy)
 
 
+![](https://komarev.com/ghpvc/?username=hcbylmz&color=green)
+
 
 <!---
 hcbylmz/hcbylmz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
